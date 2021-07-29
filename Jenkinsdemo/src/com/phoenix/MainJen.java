@@ -6,6 +6,7 @@ public class MainJen {
 		// TODO Auto-generated method stub
 		System.out.println("hello Jenkins");
 		System.out.println("some changes");
+		System.out.println("third commit");
 
 	}
 
